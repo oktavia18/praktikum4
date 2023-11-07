@@ -109,3 +109,5 @@ git push -u origin master
 
 
 git clone [url]
+
+- Berikut bukti pengerjaan-nya
