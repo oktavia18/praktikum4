@@ -111,3 +111,5 @@ git push -u origin master
 git clone [url]
 
 # __Berikut bukti pengerjaan-nya__
+
+* praktikum2 (modul2) (lab2py0
