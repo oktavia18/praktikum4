@@ -129,3 +129,9 @@ git clone [url]
 ![alt text](screenshot/conditional1.png?raw=true)
 
 ![alt text](screenshot/conditional2.png?raw=true)
+
+* Lab3 Perulangan
+
+![alt text](screenshot/lab3latihan1.png?raw=true)
+
+![alt text](screenshot/lab3latihan2.png?raw=true)
