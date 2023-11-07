@@ -114,4 +114,4 @@ git clone [url]
 
 * praktikum2 (modul2) (lab2py02)
 
-![alt text](?raw=true)
+![alt text](screenshot/praktikum2.py.png?raw=true)
