@@ -112,4 +112,6 @@ git clone [url]
 
 # __Berikut bukti pengerjaan-nya__
 
-* praktikum2 (modul2) (lab2py0
+* praktikum2 (modul2) (lab2py02)
+
+![alt text](?raw=true)
