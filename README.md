@@ -20,3 +20,10 @@ hasilnya secara berurutan mulai dari data terkecil.
 ## Perulangan
 - Pada latihan 1, kita membuat program dengan perulangan bertingkat (nested) for yang
 menghasilkan output sebagai berikut
+
+1. Kode ini mencetak pola tabel 10x10 dengan angka yang dihasilkan dari penjumlahan variabel i dan j dalam loop. Setiap baris mencetak hasil penjumlahan i + j, dengan angka-angka tersebut dipisahkan oleh tab ("\t"), dan kemudian mencetak baris baru untuk mengawali baris baru.
+
+- Pada latihan 2, kita membuat program<br>
+  Tampilkan n bilangan acak yang lebih kecil dari 0.5.<br>
+  nilai n diisi pada saat runtime<br>
+  anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
