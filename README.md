@@ -49,3 +49,37 @@ Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilang
 git config --global user.name “nama_user”
 
 git config --global user.email “email_user”
+
+2. Buat repository local
+
+mkdir bahasa_pemrograman
+cd bahasa_pemrograman
+mkdir lab2py
+
+
+3. Jika sudah, jalankan command (command git init digunakan untuk menginisialisasi repositori git baru)
+
+
+git init
+
+## Menambahkan File Baru Pada Repository Lokal
+
+1. Untuk membuat file baru bisa juga dengan text editor
+
+disini akan menggunakan terminal
+echo “# lab2py” >> README.md
+
+2. Untuk menambahkan file yang baru saja dibuat, gunakan command
+git add README.md
+
+4. Untuk menyimpan perubahan yang ada pada database repositori
+   lokal, gunakan command
+
+git commit -m "first commit"
+
+## Membuat Repository Server
+
+1. Server repository yang digunakan adalah github
+2. Buat akun github terlebih dahulu
+3. Klik tombol + new repository
+4. Isi nama repository-nya,
