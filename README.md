@@ -115,3 +115,15 @@ git clone [url]
 * praktikum2 (modul2) (lab2py02)
 
 ![alt text](screenshot/praktikum2.py.png?raw=true)
+
+* Praktikum3 (modul 3)(lab2py03)
+  
+![alt text](screenshot/lab2latihan1.png?raw=true)
+
+![alt text](screenshot/lab2latihan2.png?raw=true)
+
+![alt text](screenshot/program1py.png?raw=true)
+
+![alt text](screenshot/conditional1.png?raw=true)
+
+![alt text](screenshot/conditional2.png?raw=true)
