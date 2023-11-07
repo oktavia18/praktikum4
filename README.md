@@ -40,4 +40,12 @@ tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
 Jika bilangan1 lebih besar dari bilangan2 dan bilangan1 lebih besar dari bilangan3, maka bilangan1 adalah bilangan terbesar.<br>
 Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilangan3, maka bilangan2 adalah bilangan terbesar.<br>
 Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.
-4. program akan mencetak bilangan terbesar ke terminal / konsole
+4. program akan mencetak bilangan terbesar ke terminal / konsole.
+
+## Langkah-langkah pengerjaan latihan
+
+1. Konfigurasi terlebih dahulu username dan email pada global repository-nya
+
+git config --global user.name “nama_user”
+
+git config --global user.email “email_user”
