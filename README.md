@@ -124,6 +124,8 @@ git clone [url]
 
 ![alt text](screenshot/program1py.png?raw=true)
 
+* Lab2 Struktur kondisi
+
 ![alt text](screenshot/conditional1.png?raw=true)
 
 ![alt text](screenshot/conditional2.png?raw=true)
