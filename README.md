@@ -27,3 +27,17 @@ menghasilkan output sebagai berikut
   Tampilkan n bilangan acak yang lebih kecil dari 0.5.<br>
   nilai n diisi pada saat runtime<br>
   anda bisa menggunakan kombinasi while dan for untuk menyelesaikannya
+
+1. Kode tersebut meminta pengguna memasukkan jumlah n. Jika n lebih besar dari 0, maka kode akan menghasilkan dan mencetak n bilangan acak yang kurang dari 0.5. Jika n tidak lebih besar dari 0, maka kode akan memberi pesan bahwa n harus lebih besar dari 0.
+2. Hasil akhirnya adalah kode ini akan mencetak bilangan acak yang kurang dari 0.5 sebanyak n kali sesuai dengan jumlah yang dimasukkan oleh pengguna.
+
+## Tugas Praktikum 2
+- Buat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
+tersebut tampilkan bilangan terbesarnya. Gunakan statement if.
+1. Program akan meminta pengguna untuk memasukkan tiga bilangan: bilangan1, bilangan2, dan bilangan3.
+2. Tentukan sebuah variabel bernama "bilangan_terbesar" untuk menyimpan bilangan terbesar.
+3.Gunakan pernyataan if dan elif untuk memeriksa kondisi berikut:<br>
+Jika bilangan1 lebih besar dari bilangan2 dan bilangan1 lebih besar dari bilangan3, maka bilangan1 adalah bilangan terbesar.<br>
+Jika bilangan2 lebih besar dari bilangan1 dan bilangan2 lebih besar dari bilangan3, maka bilangan2 adalah bilangan terbesar.<br>
+Jika kedua kondisi di atas tidak terpenuhi, maka bilangan terbesar adalah bilangan3.
+4. program akan mencetak bilangan terbesar ke terminal / konsole
